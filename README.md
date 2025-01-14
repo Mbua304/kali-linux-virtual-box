@@ -30,7 +30,7 @@ By now, you should have VirtualBox downloaded and installed. If not, check out m
 
 
 
-<img src="">
+<img src="Folder/kal 3.jpg">
 
 
 Name and Operating System
