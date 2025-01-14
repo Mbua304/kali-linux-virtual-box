@@ -77,6 +77,11 @@ Make sure your network settings are properly configured. It is recommended to us
 
 
 
+<img src="Folder/kal 8.png">
+
+
+
+
 <h2>Step 6:Start the VM</h2>
 Click "Start" to boot the VM. Once booted, log in using the default credentials: Username: "kali" and Password: "kali".
 
