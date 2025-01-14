@@ -92,6 +92,9 @@ Click "Start" to boot the VM. Once booted, log in using the default credentials:
 
 
 
+<img src="Folder/kal 10.png">
+
+
 
 
 <h2>Step 7: Update Kali</h2>
