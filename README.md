@@ -109,6 +109,10 @@ Launch a terminal and execute the command: sudo apt update to ensure your system
 Once the update is complete, run the command sudo apt upgrade -y to upgrade your Linux system to the latest available packages and enhancements.
 
 
+<img src="Folder/kal 12.png">
+
+
+
 
 <h2>Note</h2>
 Download the Correct ISO: Ensure you download the appropriate 64-bit or 32-bit ISO file from the official Kali Linux website.
