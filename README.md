@@ -19,7 +19,7 @@ Extract the downloaded file using a reliable extraction tool like WinRAR or 7-Zi
 
 
 
-<img src="">
+<img src="Folder/kal2.jpg">
 
 
 
