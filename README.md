@@ -28,6 +28,11 @@ By now, you should have VirtualBox downloaded and installed. If not, check out m
 
 
 
+
+
+<img src="">
+
+
 Name and Operating System
 Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and select "Ubuntu (64-bit)" as the Version if using the 64-bit ISO.
 
