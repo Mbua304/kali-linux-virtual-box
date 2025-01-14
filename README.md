@@ -38,7 +38,7 @@ Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and 
 
 
 
-<img src="">
+<img src="Folder/kal 4.png">
 
 
 
